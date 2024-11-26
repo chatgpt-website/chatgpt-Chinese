@@ -1,4 +1,4 @@
-# 【 ChatGPT 】国内 ChatGPT镜像网站免费分享（2024/11/26）
+# 【 ChatGPT 】国内 ChatGPT镜像网站免费分享（2024/11/27）
 
 在本仓库中，我们免费分享多个国内 **ChatGPT镜像网站**，无需翻墙、无需魔法、无需注册账号，直接使用。让用户在正常网络下也能访问 **ChatGPT**
 
@@ -12,7 +12,7 @@
 
 ## ChatGPT镜像网站推荐
 
-2024/11/26 最后更新 ChatGPT镜像网站：https://chatgpt.lanjing.ai/
+2024/11/27 最后更新 ChatGPT镜像网站：https://chatgpt.lanjing.ai/
 
 
 | 镜像站地址   | 支持模型       | 功能亮点          |
